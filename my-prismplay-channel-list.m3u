@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-id="peacetv" tvg-name="Peace TV Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f3/Peace_TV_Bangla_HD_logo_2020.png/revision/latest?cb=20220106022532" group-title="BANGLA",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?sid=LjhEgfLdnU6zUVCbWKuCvg
+
 #EXTINF:-1 tvg-id="football-world-cup-2026" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/PTV_Logo.png/250px-PTV_Logo.png" group-title="Sports",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
